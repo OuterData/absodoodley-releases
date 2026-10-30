@@ -1,15 +1,15 @@
 {
-  "version": "0.1.0",
-  "notes": "The first test version. Thank you for trying it!\n\n- Type a name or draw shapes at their real size, on a page that is your material (a coaster, a board, a sheet), placed where it sits on your laser.\n- Pick fonts, arch text, change the spacing between letters, and add borders and shadows that follow the words.\n- Bring in a picture and trace it into shapes or single lines.\n- Join shapes, cut one out of another, and edit their points.\n- Line things up with rulers, guidelines, a grid and smart guides; they snap into place as you drag.\n- Hold Ctrl to keep things straight, square or round, and Shift to size from the center.\n- Copy things in a line, a fan or a spiral with Ctrl D, or fill your material with copies using Step and repeat.\n- Preview exactly what the laser will do, then frame it, burn a test square, and make it.\n- Save your designs as SVG files that other programs can open.\n- Made ready for the Mecpow X3 Pro: choose it under Your machine in the Machine panel, and its materials start at settings for its 10 W laser.\n- New versions arrive by themselves: a bar at the top offers them, and Install now keeps your design open.",
-  "pub_date": "2026-10-29T16:34:41.732Z",
+  "version": "0.1.1",
+  "notes": "- Your material can now be bigger than your machine, up to 3 m on a side. You can open a big design and add space to it. To burn it, it still has to fit your machine's work area, which is drawn on the material.\n- Fixed: saving a design forgot the size of your material, so it came back on the whole work area.\n- Keep proportions, under Width and Height: type a new width and the height changes to match, and the other way round. It is on until you turn it off.\n- Report a problem, in the ? menu: it saves a report on your Desktop and opens an email to Kevin, ready for you to attach it.\n- If AbsoDoodley closes unexpectedly, it offers to report it the next time it starts.\n- The tester guide shows how to set the size of your board.",
+  "pub_date": "2026-10-30T02:32:05.426Z",
   "platforms": {
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSejlyYmlsTHpUMElDc0tzUVB1N0ppVjFVZzlVRFdoeWU0L1p4UGZMTTVhQzR6TjVqMTNJN25sZzFMbVZscDMvZ01ubEdlSXBhVytXYW5QMzNxOUsvZXR5ejZhTDc0SFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjkxNTU3CWZpbGU6QWJzb0Rvb2RsZXlfMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wCmVzdlRVTkNDeVdrYmQ3aDhzd01CSkZOUHBLcjloKytyaTlvMWpZaTZaOG1MZGkvSnhpSVhjVnlld2VsNVpTemtsblo0UWJpUjNOU2Z3VkhxSXBpWkNRPT0K",
-      "url": "https://github.com/OuterData/absodoodley-releases/releases/download/v0.1.0/AbsoDoodley_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSejlyYmlsTHpUMElNV1VVVGpoV1VrUFcyRUhPbG1mNWlpVWE3OGdwdGc4Q0c3aEZheVRkbDVXL2ozM0tRVHFoaXZ6RDVQMHkxSnNtR2tKMEtadzRPcXp3NUJJbUk2TVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzI3NDc5CWZpbGU6QWJzb0Rvb2RsZXlfMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCmltcHFRQlc0b0hRZy94S25INU1xR2ZCMFFkLzIwd0JEWWhocVdTWDhCajFuaUR3eDJ6STZKa29UY0trWElOSUlIV1BzbHJDbTdwa09VZ3hIc0grdUJBPT0K",
+      "url": "https://github.com/OuterData/absodoodley-releases/releases/download/v0.1.1/AbsoDoodley_0.1.1_x64-setup.exe"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSejlyYmlsTHpUMElDc0tzUVB1N0ppVjFVZzlVRFdoeWU0L1p4UGZMTTVhQzR6TjVqMTNJN25sZzFMbVZscDMvZ01ubEdlSXBhVytXYW5QMzNxOUsvZXR5ejZhTDc0SFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjkxNTU3CWZpbGU6QWJzb0Rvb2RsZXlfMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wCmVzdlRVTkNDeVdrYmQ3aDhzd01CSkZOUHBLcjloKytyaTlvMWpZaTZaOG1MZGkvSnhpSVhjVnlld2VsNVpTemtsblo0UWJpUjNOU2Z3VkhxSXBpWkNRPT0K",
-      "url": "https://github.com/OuterData/absodoodley-releases/releases/download/v0.1.0/AbsoDoodley_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSejlyYmlsTHpUMElNV1VVVGpoV1VrUFcyRUhPbG1mNWlpVWE3OGdwdGc4Q0c3aEZheVRkbDVXL2ozM0tRVHFoaXZ6RDVQMHkxSnNtR2tKMEtadzRPcXp3NUJJbUk2TVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzI3NDc5CWZpbGU6QWJzb0Rvb2RsZXlfMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCmltcHFRQlc0b0hRZy94S25INU1xR2ZCMFFkLzIwd0JEWWhocVdTWDhCajFuaUR3eDJ6STZKa29UY0trWElOSUlIV1BzbHJDbTdwa09VZ3hIc0grdUJBPT0K",
+      "url": "https://github.com/OuterData/absodoodley-releases/releases/download/v0.1.1/AbsoDoodley_0.1.1_x64-setup.exe"
     }
   }
 }
